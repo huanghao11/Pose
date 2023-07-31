@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcdbadb3-6e88-44c3-a765-9a959489c109" name="81.68.102.192">
+        <fileTransfer rootFolder="/home/huanghao/workspace/huanghao/Intra-and-Inter-Human-Relation-Network-for-MPEE-main" accessType="SFTP" host="81.68.102.192" port="5222" sshConfigId="aa7234cf-a096-4288-b9c6-a997a6c42cb7" sshConfig="huanghao@81.68.102.192:5222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
